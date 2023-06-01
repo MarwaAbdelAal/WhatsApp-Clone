@@ -1,6 +1,5 @@
 import {
   Box,
-  Center,
   Container,
   Tab,
   TabList,
@@ -35,11 +34,9 @@ function Homepage() {
         borderRadius="lg"
         borderWidth="1px"
       >
-        <Center>
-          <Text fontSize="5xl" fontFamily="Work sans" fontWeight="bold">
-            Chat App
-          </Text>
-        </Center>
+        <Text fontSize="4xl" fontFamily="Work sans">
+          Chat App
+        </Text>
       </Box>
       <Box bg="white" w="100%" p={4} borderRadius="lg" borderWidth="1px">
         <Tabs isFitted variant="soft-rounded">
