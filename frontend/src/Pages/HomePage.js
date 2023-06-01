@@ -37,7 +37,7 @@ function Homepage() {
       >
         <Center>
           <Text fontSize="5xl" fontFamily="Work sans" fontWeight="bold">
-            Start Chatting
+            Chat App
           </Text>
         </Center>
       </Box>
